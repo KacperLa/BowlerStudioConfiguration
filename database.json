@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/KacperLa/Ron.git": [
+      "KacperLa/Ron",
+      "1702154062978"
+    ]
+  },
   "studio-open-web": {},
   "MenueSettings": {
     "printCSG": true
