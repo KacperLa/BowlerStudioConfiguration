@@ -9,6 +9,10 @@
   "MenueSettings": {
     "printCSG": true
   },
+  "PhysicsWidget": {
+    "gitStatic": "",
+    "gitMoving": ""
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
